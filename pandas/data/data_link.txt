@@ -1,0 +1,8 @@
+1. ad_feature.csv数据下载地址：
+https://drive.google.com/file/d/1IPPPeih4p-q6P_yt1IeFkIW8XHVuAv6s/view?usp=sharing
+
+2. 广告数据下载地址：
+https://drive.google.com/file/d/16FykGW5PvTKD7LH5cxKJdjIrQtPR4OdS/view?usp=sharing
+
+3. 广告数据字段说明下载地址：
+https://drive.google.com/file/d/1zUbuIGTYMnYWTPtwR1OAU34cfxbaNLt_/view?usp=sharing
